@@ -1,0 +1,6 @@
+{
+  "name": "Baljyoti School OS",
+  "description": "AI-enabled Google Workspace & Cloud ecosystem School Operating System for Baljyoti Public School guiding roles across Admission, Academic, Activity, and Administration with Gemini intelligence and BigQuery analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
